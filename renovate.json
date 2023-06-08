@@ -15,6 +15,6 @@
     "labels": ["security"],
     "automerge": true
   },
-  "ignoreTests": true,
+  "ignoreTests": true
  
 }
