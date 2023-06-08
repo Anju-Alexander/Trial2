@@ -13,7 +13,9 @@
   "vulnerabilityAlerts": {
     "enabled": true,
     "labels": ["Security"],
-    "automerge": true
+    "ignoreTests": true,
+    "automerge": true,
+    "automergeType": "pr"
   }
  
 }
